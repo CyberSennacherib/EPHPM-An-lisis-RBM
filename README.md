@@ -120,4 +120,4 @@ Resumen (detalle, orden y código en [`docs/EXTENDING.md`](docs/EXTENDING.md)):
 
 ## 9. Licencia y uso de datos
 
-*(Añade aquí la licencia del código, p. ej. MIT.)* Los microdatos de la EPHPM pertenecen al INE y no se redistribuyen en este repositorio.
+ Los microdatos de la EPHPM pertenecen al INE y no se redistribuyen en este repositorio.
